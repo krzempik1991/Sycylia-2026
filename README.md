@@ -1,2 +1,2 @@
 # Sycylia-2026
-Wyjazd na sycylę
+Wyjazd na sycylię
